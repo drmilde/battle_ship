@@ -40,7 +40,7 @@ class ListPlayerScreen extends StatelessWidget {
             child: Container(
               width: 300,
               height: 48,
-              color: Colors.lime,
+              color: Colors.green,
               child: Center(child: Text(spieler[index])),
             ),
           );
